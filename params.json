@@ -1,0 +1,6 @@
+{
+  "name": "Clickboard",
+  "tagline": "Spring beans.config.xml",
+  "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<beans xmlns=\"http://www.springframework.org/schema/beans\"\r\n\txmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\r\n\txsi:schemaLocation=\"http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd\">\r\n\r\n\r\n</beans>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
